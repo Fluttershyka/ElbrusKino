@@ -1,0 +1,41 @@
+.ALL1{
+    background-color: rgb(173, 159, 255);
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+    margin:  100px 100px 100px 100px;
+    padding: 50px;
+}
+
+.ALL2{
+    background-color: rgb(173, 159, 255);
+    display: flex;
+    justify-content: center;   
+    align-items: center;
+    margin:  100px 100px 100px 100px;
+    padding: 50px;
+}
+
+.all{
+    background: rgb(103, 48, 214);
+}
+
+.film{
+    
+    background-color: rgb(0, 140, 255);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+h2{
+    
+    padding-left: 100px;   
+}
+
+h3{
+    padding-left: 100px; 
+    padding-top: 150px;
+}
+
